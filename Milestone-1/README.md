@@ -5,9 +5,9 @@ practices.
 
 Challenges addressed in this project for the dataset:
 
- Data may come from various sources such as sensors in trash cans, GPS data from the waste collection vehicles, temperature etc. Integrating these diverse data is complex.
- The failure of the sensor to detect the trash and log the signals can lead to disruptions in the planned operations.
- Scalability issues may exist with an increase in data volume, which must be handled.
- Data may be noisy, incomplete, or inconsistent, ensuring the quality and accuracy of the data is crucial for making informed decisions.
- Developing and maintaining infrastructure requires significant resources, including hardware, software, and skills.
- Implementing real-time analytics on sensor data can be complex and resource-intensive.
+- Variety - Data may come from various sources such as sensors in trash cans, GPS data from the waste collection vehicles, temperature etc. Integrating these diverse data is complex.
+- The failure of the sensor to detect the trash and log the signals can lead to disruptions in the planned operations (Fault tolerance).
+- Scalability issues may exist with an increase in data volume, which must be handled.
+- Data may be noisy, incomplete, or inconsistent, ensuring the quality and accuracy of the data is crucial for making informed decisions.
+- Developing and maintaining infrastructure requires significant resources, including hardware, software, and skills.
+- Implementing real-time analytics on sensor data can be complex and resource-intensive.
