@@ -1,4 +1,5 @@
 ABSTRACT
+
 Waste management and sorting mechanisms are important for waste pick-up services to efficiently collect and segregate them and reduce the costs incurred. Often, the garbage accumulates around the bins when there is no proper disposal of waste done regularly, creating an unhygienic environment. A significant challenge in waste collection is the frequency of collecting trash from bins with low fill levels – less than 50% which leads to high operational costs. By monitoring the fill level of the containers, route optimization can be implemented so the drivers can focus on fully filled trash containers.This project focuses on optimizing this system by monitoring the fill levels of trash bins, measuring the weights of bins that will help to predict the fill levels over time so that the frequency of pick-ups can be estimated, and automating the waste classification to improve the overall efficiency of the waste management
 practices.
 
